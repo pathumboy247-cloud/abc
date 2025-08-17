@@ -7,6 +7,6 @@ module.exports = {
 
 SESSION_ID: process.env.SESSION_ID === undefined ? ',
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SESSION_NAME: process.env.PORT === undefined ? "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=8VQhEYAI#YOk56qKBSuj9EXUpL3ebKW_M9pd2yBKszwlnElaWKuc,
+SESSION_NAME: process.env.PORT === undefined ? "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=QB43XYzK#CPzzo5wpfKSq2HPJfRqw1t2nf47XHpN6HsiYQs2_pOc,
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://postgres:@Asitha2005b@db.waiqbrnuxkjebghzhovz.supabase.co:5432/postgres' : process.env.POSTGRESQL_URL,
 };
